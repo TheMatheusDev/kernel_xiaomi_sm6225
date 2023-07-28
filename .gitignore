@@ -141,3 +141,11 @@ arch/arm64/boot/dts/vendor/
 
 # Tech package directories
 techpack/
+
+# Post build files and dirs
+out/
+drivers/staging/ktrace/
+drivers/staging/rtmm/
+include/linux/ktrace.h
+include/linux/rtmm.h
+
